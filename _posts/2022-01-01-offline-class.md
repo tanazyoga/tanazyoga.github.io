@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Owner"
+title: "کلاس های حضوری"
 author: "Tanaz"
 categories: class
 tags: [class]
