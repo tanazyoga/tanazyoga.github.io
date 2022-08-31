@@ -8,9 +8,6 @@ layout: default
       {{ page.title }}
     </div>
   </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
   {% if page.image %}
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
