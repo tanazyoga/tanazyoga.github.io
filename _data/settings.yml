@@ -25,8 +25,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'جدید تر'
+  previous_page: 'قدیمی تر'
 
 sharing_button_prompt: 'با دوستانتون به اشتراک بگذارین.'
 
