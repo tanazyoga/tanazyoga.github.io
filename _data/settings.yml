@@ -8,8 +8,8 @@ google-ID: ''
 
 menu:
 #- {name: '',  url: 'facts'}
-- {name: 'کلاس های ما',       url: 'sample-posts'}
-- {name: 'مقاله ها',      url: 'documentation'}
+- {name: 'کلاس های ما',       url: 'classes'}
+- {name: 'مقاله ها',      url: 'articles'}
 #- {name: 'آموزشی', url: 'resources'}
 - {name: 'درباره ما',              url: 'about'}
 - {name: 'تماس با ما',            url: 'contact'}
