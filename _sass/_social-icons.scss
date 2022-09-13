@@ -72,3 +72,8 @@
   padding: 5px;
   @include social-media-icon($twitter-color, $icon-transition-time);
 }
+
+.fa-whatsapp {
+  padding: 5px;
+  @include social-media-icon($wa-color, $icon-transition-time);
+}
